@@ -24,7 +24,6 @@ public class MainActivity extends AppCompatActivity implements SensorEventListen
     private static Sensor sensor;
     private float currentDegree;
 
-    // check disting disting
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
